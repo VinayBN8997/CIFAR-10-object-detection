@@ -1,6 +1,8 @@
 # CIFAR-10-object-detection
 Object detection of CIFAR-10 using densenet
 
+# Rendered Notebook: https://nbviewer.jupyter.org/github/VinayBN8997/CIFAR-10-object-detection/blob/master/CIFAR%2010%20object%20detection.ipynb
+
 CNN Architecture: Densely Connected Convolutional Networks
 Source: https://arxiv.org/abs/1608.06993
 
